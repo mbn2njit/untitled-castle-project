@@ -1,0 +1,23 @@
+[
+    {
+        "nid": "6",
+        "name": "swag level 6",
+        "tilemap": "FogOfWarTest",
+        "bg_tilemap": "FogOfWarTest",
+        "party": "Eirika",
+        "music": {},
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "units": [],
+        "regions": [],
+        "unit_groups": [],
+        "ai_groups": []
+    }
+]
